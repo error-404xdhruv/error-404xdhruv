@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @error-404xdhruv
-- 👀 I’m interested in C , C++ and Web Development.
-- 🌱 I’m currently learning C Programming Language.
+- 👀 I’m interested in C , C++, DSA and Web Development.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: dhruv.nitj@gmail.com
 
