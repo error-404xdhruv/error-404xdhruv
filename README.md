@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhruv.
-- 👀 I’m interested in C , C++.
-- 🌱 I’m currently learning C Programming Language.
+- 👀 I’m interested in Computer Programming.
+- 🌱 I’m currently learning C++ Programming Language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: dhruv.nitj@gmail.com
 
