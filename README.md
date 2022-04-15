@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, nice to see you.</h1>
-<h3 align="center">I am Dhruv, a programming enthusiast and an aspiring App Developer.</h3>
+<h3 align="center">*I am Dhruv, a programming enthusiast and an aspiring App Developer.*</h3>
 
 - 🌱 I’m currently learning **DSA and Problem Solving.**
 
