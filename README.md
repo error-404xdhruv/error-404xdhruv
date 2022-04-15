@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">I am currently a 1st year Engineering Student and a Programming Enthusiast. I am aspiring to be a Competitive Programmer and an App Developer.</h3>
+<h1 align="center">Hi 👋, nice to see you.</h1>
+<h3 align="center">I am Dhruv, a programming enthusiast and an aspiring App Developer.</h3>
 
 - 🌱 I’m currently learning **DSA and Problem Solving.**
 
