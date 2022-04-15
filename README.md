@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A Programming Enthusiast from India.</h3>
 
+- 🌱 I’m currently learning **DSA and Problem Solving.**
+
+- 🤝 I’m looking for help with **DSA, Flutter & App Development.**
+
+- 💬 Ask me about **C , C++ , DSA , Dart , Flutter.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/dhruv1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv1708" height="30" width="40" /></a>
+<a href="https://instagram.com/dhruv.17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv.17_" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dhruv_nitj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruv_nitj" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/error-404xdhruv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="error-404xdhruv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
