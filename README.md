@@ -1,10 +1,27 @@
-- 👋 Hi, I’m Dhruv.
-- 👀 I’m interested in Computer Programming.
-- 🌱 I’m currently learning C++ Programming Language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: dhruv.nitj@gmail.com
 
-<!---
-error-404xdhruv/error-404xdhruv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, nice to see you ! 👋
+Welcome to my GitHub Profile. 
+
+
+***I am Dhruv, a Programming Enthusiast.***
+## 🚀 About Me
+🌱 I'm currently learning DSA.
+
+🤝  I'm looking for help with Problem Solving.
+
+💬 Ask me about C , C++ Programming and Problem Solving.
+## 🤝 Let's Connect (Profiles) :
+
+ - [LinkedIn](https://www.linkedin.com/in/dhruv1708/)
+ - [HackerRank](https://www.hackerrank.com/dhruv_nitj)
+ - [LeetCode](https://leetcode.com/error-404xdhruv/)
+
+
+## 🏅 Skills
+C , C ++ , DSA , Problem Solving , Dart , Flutter , App Development.
+
+
+## ❓ Contact Me :
+
+For Contact, email dhruv.nitj@gmail.com.
+
