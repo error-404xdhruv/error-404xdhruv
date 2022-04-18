@@ -19,6 +19,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories & following me!
+### Show some ❤️ by following me and starring some of the repositories !
 
 </div>
