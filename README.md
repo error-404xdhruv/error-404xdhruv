@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **DSA and Problem Solving.**
 
-- 🤝 I’m looking for help with **DSA, Flutter & App Development.**
+- 🤝 I’m looking for help with **DSA and Python.**
 
-- 💬 Ask me about **C , C++ , DSA , Dart , Flutter.**
+- 💬 Ask me about **C , C++ , DSA and Python.**
 
 <h3 align="left">Let's Connect : </h3>
 <p align="left">
