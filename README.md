@@ -14,7 +14,8 @@
 <a href="https://www.leetcode.com/error-404xdhruv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="error-404xdhruv" height="30" width="40" /></a><a href="https://codeforces.com/profile/dhruv.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dhruv.17" height="30" width="40" /></a><a href="https://www.codechef.com/users/dhruv_nitj_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhruv_nitj_17" height="30" width="40" /></a>
 <a href="https://discord.gg/#0127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0127" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18243612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18243612" height="30" width="40" /></a>
- [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/DHRUV-YADAV-523) 
+ 
+<a href="https://quora.com/profile/DHRUV-YADAV-523" target = "blank"><img align = "center" src = "https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white" alt = "18243612" height = "30"' width = "40" /></a>
 </p>
 
 # 💻 Tech Stack:
