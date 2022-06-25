@@ -1,6 +1,11 @@
-# 💫 About Me:
-🌱 I’m currently learning DSA and Problem Solving.<br><br>🤝 I’m looking for help with DSA and Python.<br><br>💬 Ask me about C , C++ , DSA and Python.
+<h1 align="center">Hey 👋, nice to see you.</h1>
+<h3 align="center"><i>I am Dhruv, a programming enthusiast and an aspiring Competitive Programmer.</i></h3>
 
+- 🌱 I’m currently learning **DSA and Problem Solving.**
+
+- 🤝 I’m looking for help with **DSA and Python.**
+
+- 💬 Ask me about **C , C++ , DSA and Python.**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/#0127) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dhruv.17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv1708) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/DHRUV-YADAV-523) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DhruvYadav__) 
