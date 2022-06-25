@@ -20,5 +20,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=error-404xdhruv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="center"><i>"A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match."
+<h3 align="left"><i>"A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match."
 			- David Parnas</i></h3>
