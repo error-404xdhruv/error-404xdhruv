@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, nice to see you.</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F75C07&background=FFFFFF00&lines=A+Python+Developer+in+making...;Knows+C+%2C+C%2B%2B+and+Python+Programming+Languages;Aspiring+to+be+a+Competitive+Coder.)](https://git.io/typing-svg)
+<b><i>I am Dhruv, a Python Developer and an aspiring Competitive Programmer.</b></i>
 
 - 🌱 I’m currently learning **DSA and Problem Solving.**
 
