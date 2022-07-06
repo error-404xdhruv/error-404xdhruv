@@ -22,5 +22,5 @@
 
 ### Show some ❤️ by following me and starring some of the repositories !
 
-![snake gif](https://github.com/error-404xdhruv/error-404xdhruv/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/error-404xdhruv/error-404xdhruv/output/github-contribution-grid-snake.svg)
 </div>
