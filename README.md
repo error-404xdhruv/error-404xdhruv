@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, nice to see you.</h1>
 <h2 align = "center"><b><i>I am Dhruv, a Python Developer and an aspiring Competitive Programmer.</b></i></h2>
 
-- 🌱 I’m currently learning **DSA, Problem Solving and Python.**
+- 🌱 I’m currently learning **C++, DSA, Problem Solving and Python.**
 
 - 🤝 I’m looking for help with **DSA and Python.**
 
